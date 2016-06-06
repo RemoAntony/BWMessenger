@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_bgcolor">#ff00ffff</color>
+    <color name="home_heading">#ff0000</color>
+    <color name="home_text1">#ff0000ff</color>
+    <color name="home_text2">#ffffff00</color>
+    <color name="home_text3">#ff00ff</color>
+
+    <color name="ColorPrimary11">#222777</color>
+    <color name="ColorPrimaryDark">#222777</color>
+    <color name="tabsScrollColor">#00bfff</color>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="row_background">#ff00ffff</color>
+    <color name="my_msg_background">#FF494949</color>
+    <color name="in_msg_background">#FF0D4C63</color>
+    <color name="colorPrimary">#3B9AFB</color>
+    <color name="colorPrimaryDark">#0041C2</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="register_bg">#125688</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="list_divider">#272727</color>
+
+    <!-- colors for button and backgrounds -->
+    <color name="greenish_white">#EDF2ED</color>
+    <color name="light_gray">#33FFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="bg_grey">#c9c9c9</color>
+    <color name="light_neongreen">#35DC13</color>
+    <color name="dark_neongreen">#2B9926</color>
+    <color name="dark_green_actionbar">#288F24</color>
+    <color name="black">#000000</color>
+    <color name="valentine_red">#6C2DC7</color>
+    <color name="light_coral">#8467D7</color>
+    <color name="red">#990012</color>
+    <color name="ferrari_red">#FF0000</color>
+    <color name="bg_blue">#5676dd</color>
+    <color name="light_blue">#ADDFFF</color>
+    <color name="denim_blue">#79BAEC</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="VioletRed">#CA226B</color>
+    <color name="AztechPurple">#893BFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange_dark">#FF8800</color>
+    <color name="orange_light">#FFBB33</color>
+
+
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+</resources>

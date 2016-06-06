@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:background="@color/denim_blue"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/in"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:background="@drawable/edittop"
+            android:id="@+id/edit_text_out"
+            android:hint="Enter Message"
+            android:gravity="center"
+            android:textColorHint="#cccccc"
+            android:textCursorDrawable="@null"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_gravity="bottom"
+            android:layout_weight="1" />
+
+        <Button
+            android:background="@drawable/btn_gray"
+            android:id="@+id/button_send"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:text="@string/send" />
+    </LinearLayout>
+
+</LinearLayout>
